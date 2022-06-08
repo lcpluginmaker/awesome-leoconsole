@@ -19,7 +19,7 @@ List of awesome projects around LeoConsole.
 
 ## Plugins
 
- - name (repo)
+ - plugin name (repo)
 
 ### Plugin Management
 
@@ -28,7 +28,7 @@ List of awesome projects around LeoConsole.
 ### Utils
 
  - [coreutils (main)](https://github.com/alexcoder04/LeoConsole-coreutils)
- - [external-scripts](https://github.com/alexcoder04/LeoConsole-external-scripts)
+ - [external-scripts (main)](https://github.com/alexcoder04/LeoConsole-external-scripts)
 
 ### Development
 

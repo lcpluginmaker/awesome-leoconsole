@@ -28,6 +28,7 @@ List of awesome projects around LeoConsole.
 ### Utils
 
  - [coreutils (main)](https://github.com/alexcoder04/LeoConsole-coreutils)
+ - [external-scripts](https://github.com/alexcoder04/LeoConsole-external-scripts)
 
 ### Development
 

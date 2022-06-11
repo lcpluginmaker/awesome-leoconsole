@@ -16,6 +16,7 @@ List of awesome projects around LeoConsole.
 
  - [alexcoder04/LeoConsole-apkg-builder](https://github.com/alexcoder04/LeoConsole-apkg-builder) - compile plugins
  - [alexcoder04/LeoConsole-PluginTemplate](https://github.com/alexcoder04/LeoConsole-PluginTemplate) - plugin template
+ - [alexcoder04/gilc](https://github.com/alexcoder04/gilc) - Go plugin support
 
 ## Plugins
 

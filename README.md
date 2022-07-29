@@ -15,7 +15,7 @@ List of awesome projects around LeoConsole.
 ## Development
 
  - [alexcoder04/LeoConsole-apkg-builder](https://github.com/alexcoder04/LeoConsole-apkg-builder) - compile plugins
- - [alexcoder04/LeoConsole-PluginTemplate](https://github.com/alexcoder04/LeoConsole-PluginTemplate) - plugin template
+ - [lcpluginmaker/PluginTemplate](https://github.com/lcpluginmaker/PluginTemplate) - plugin template
  - [alexcoder04/gilc](https://github.com/alexcoder04/gilc) - Go plugin support
    - [alexcoder04/friendly](https://github.com/alexcoder04/friendly) - useful Go utils library
    - [alexcoder04/arrowprint](https://github.com/alexcoder04/arrowprint) - uniform output format for Go plugins
@@ -30,10 +30,10 @@ List of awesome projects around LeoConsole.
 
 ### Utils
 
- - [coreutils (main)](https://github.com/alexcoder04/LeoConsole-coreutils) - simple tools like `clear` and `echo`
+ - [coreutils (main)](https://github.com/lcpluginmaker/coreutils) - simple tools like `clear` and `echo`
  - [external (main)](https://github.com/alexcoder04/LeoConsole-external) - run external scripts, processes and Go plugins
  - [downloader (main)](https://github.com/alexcoder04/LeoConsole-downloader) - download files from their URL
 
 ### Development
 
- - [hacks (contrib)](https://github.com/alexcoder04/LeoConsole-hacks) - do stuff that was never intended
+ - [hacks (contrib)](https://github.com/lcpluginmaker/hacks) - do stuff that was never intended

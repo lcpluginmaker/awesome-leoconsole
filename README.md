@@ -9,14 +9,14 @@ List of awesome projects around LeoConsole.
 
 ## Plugin Repositories
 
- - [main](https://github.com/alexcoder04/LeoConsole-repo-main)
- - [contrib](https://github.com/alexcoder04/LeoConsole-repo-contrib)
+ - [main](https://github.com/lcpluginmaker/repo-main)
+ - [contrib](https://github.com/lcpluginmaker/repo-contrib)
 
 ## Development
 
- - [alexcoder04/LeoConsole-apkg-builder](https://github.com/alexcoder04/LeoConsole-apkg-builder) - compile plugins
+ - [lcpluginmaker/apkg-builder](https://github.com/lcpluginmaker/apkg-builder) - compile plugins
  - [lcpluginmaker/PluginTemplate](https://github.com/lcpluginmaker/PluginTemplate) - plugin template
- - [alexcoder04/gilc](https://github.com/alexcoder04/gilc) - Go plugin support
+ - [lcpluginmaker/gilc](https://github.com/lcpluginmaker/gilc) - Go plugin support
    - [alexcoder04/friendly](https://github.com/alexcoder04/friendly) - useful Go utils library
    - [alexcoder04/arrowprint](https://github.com/alexcoder04/arrowprint) - uniform output format for Go plugins
 
@@ -26,13 +26,13 @@ List of awesome projects around LeoConsole.
 
 ### Plugin Management
 
- - [apkg (main)](https://github.com/alexcoder04/LeoConsole-apkg)
+ - [apkg (main)](https://github.com/lcpluginmaker/apkg)
 
 ### Utils
 
  - [coreutils (main)](https://github.com/lcpluginmaker/coreutils) - simple tools like `clear` and `echo`
- - [external (main)](https://github.com/alexcoder04/LeoConsole-external) - run external scripts, processes and Go plugins
- - [downloader (main)](https://github.com/alexcoder04/LeoConsole-downloader) - download files from their URL
+ - [external (main)](https://github.com/lcpluginmaker/external) - run external scripts, processes and Go plugins
+ - [downloader (main)](https://github.com/lcpluginmaker/downloader) - download files from their URL
 
 ### Development
 
